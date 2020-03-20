@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#generates random branches for testing git automation scripts
 cd ../ddins
 
 for i in {1..100}
